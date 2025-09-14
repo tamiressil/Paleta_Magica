@@ -14,7 +14,7 @@ Desafio para a criação de uma página com 5 blocos de cores, adicionando botã
 
 
   #  Veja a página aqui:
- [Veja-o aqui!](paleta-magica-xwry-jun6yi109-tamires-projects-4308e3d7.vercel.app)
+ [Veja-o aqui!](https://paleta-magica-xwry-lt0gglmc6-tamires-projects-4308e3d7.vercel.app/)
 
   
 ## Tecnologias Aprendidas:
@@ -30,8 +30,7 @@ Desafio para a criação de uma página com 5 blocos de cores, adicionando botã
     
     
 ## imagem do projeto
-
-![Captura de tela 2024-05-12 231905](<img width="1502" height="714" alt="Captura de tela 2025-09-13 231704" src="https://github.com/user-attachments/assets/1134eeb4-137e-4403-ac3f-2d3059e31ddc" />)
+<img width="1502" height="714" alt="Captura de tela 2025-09-13 231704" src="https://github.com/user-attachments/assets/0e5532fd-3932-45aa-8401-de90ea8db0e2" />
 
 
 
